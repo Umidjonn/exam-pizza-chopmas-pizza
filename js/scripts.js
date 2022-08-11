@@ -13,7 +13,7 @@ let typeOfBread = ['Yupqa', 'Qalin', 'Pishloqli'];
 //size of pizza
 let pizzaSize = [25, 30, 35];
 //extra foods
-let pizzaTopping = ['Pomidor', 'Kurka goshti', 'Qoziqorin', 'zaytun', 'Qazi'];
+let pizzaTopping = ['Pomidor', 'Kurka goshti', 'Qoziqorin', 'Zaytun', 'Qazi'];
 //additional ingredient
 let pizzaIngredient = ['Acchiq', 'Shirin', 'Sosiskali ']
 
